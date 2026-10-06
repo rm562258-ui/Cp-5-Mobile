@@ -8,8 +8,9 @@ Aplicativo mobile com **Firebase Authentication** e **Cloud Firestore** (CRUD co
 
 | Nome | RM |
 |------|----|
+| Mathaus Victor Souza Marcelino | RM 564146 |
 | Luan Peixoto Marins Rocha | RM 562258 |
-| Vinícius Luis Exposito Morassi Garcia | RM 563340 |
+| Eduardo Novaes Mollo | RM 561515 |
 
 ## Tema do aplicativo
 
